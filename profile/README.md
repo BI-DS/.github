@@ -14,3 +14,14 @@
 # **Department of Data Science and Analytics at BI Oslo**
 The [department](https://www.bi.edu/research/find-department/department-of-data-science-and-analytics/) works in both applied and theoretical research in data science and statistics, and aim at publications in top journals in the field. We will have activities in teaching, supervision of students, and research projects.  We are also a single point of contact for other departments at BI to obtain, coordinate and collaborate on cutting-edge knowledge in advanced data science.
 
+## People
+* [Aune, Erlend](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/erlend-aune/)
+* [Johnsen, Siri](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/siri-johnsen/)
+* [Ivanovska, Magdalena](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/magdalena-ivanovska/)
+* [Kudlicka, Jan](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/jan-kudlicka/)
+* [Langguth, Johannes](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/johannes-langguth/)
+* [Mancisidor, Rogelio A](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/rogelio-andrade-mancisidor/)
+* [Moss, Jonas](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/jonas-moss/)
+* [Ravazzolo, Francesco](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/francesco-ravazzolo/)
+* [Stoltenberg, Emil A](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/emil-aas-stoltenberg/)
+* [Yang, Wei-Ting](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/wei-ting-yang/)

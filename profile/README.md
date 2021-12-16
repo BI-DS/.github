@@ -9,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-<p align='center'><img src="./image1.jpeg" width="70%" height="50%"></p>
+<p align='center'><img src="https://github.com/ML-BI/.github/blob/main/profile/image1.jpeg" width="70%" height="50%"></p>
 
 **Department of Data Science and Analytics at BI Oslo**
 

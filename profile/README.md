@@ -11,4 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-***Department of Data Science and Analytics at BI Oslo***
+**Department of Data Science and Analytics at BI Oslo**
+The department works in both applied and theoretical research in data science and statistics, and aim at publications in top journals in the field. We will have activities in teaching, supervision of students, and research projects.  We are also a single point of contact for other departments at BI to obtain, coordinate and collaborate on cutting-edge knowledge in advanced data science.
+

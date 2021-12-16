@@ -14,7 +14,7 @@
 # **Department of Data Science and Analytics at BI Oslo**
 The [department](https://www.bi.edu/research/find-department/department-of-data-science-and-analytics/) works in both applied and theoretical research in data science and statistics, and aim at publications in top journals in the field. We will have activities in teaching, supervision of students, and research projects.  We are also a single point of contact for other departments at BI to obtain, coordinate and collaborate on cutting-edge knowledge in advanced data science.
 
-### Head of Department and Head of Administration
+### Head of Department and Administration
 * [Ravazzolo, Francesco](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/francesco-ravazzolo/) Head of Department
 * [Johnsen, Siri](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/siri-johnsen/) Head of Administration
 

@@ -19,7 +19,7 @@ The [department](https://www.bi.edu/research/find-department/department-of-data-
 * [Johnsen, Siri](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/siri-johnsen/) Head of Administration
 
 ### Academic Staff
-* [#Aune, Erlend](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/erlend-aune/)
+* [Aune, Erlend](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/erlend-aune/)
 * [Ivanovska, Magdalena](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/magdalena-ivanovska/)
 * [Kudlicka, Jan](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/jan-kudlicka/)
 * [Mancisidor, Rogelio A](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/rogelio-andrade-mancisidor/)
@@ -28,4 +28,4 @@ The [department](https://www.bi.edu/research/find-department/department-of-data-
 * [Yang, Wei-Ting](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/wei-ting-yang/)
 
 ## Simula@BI
-[Simula@BI](https://www.bi.edu/research/research-centres/simulabi/) is a research center that focuses on applied and fundamental research in data science, with focus on applications in the intersection between business and data science. The center is a collaboration between Simula and BI, and aims to facilitate collaboration in the extended Norwegian data science community. [Erlend Aune](#Aune, Erlend) is the head of the research center.
+[Simula@BI](https://www.bi.edu/research/research-centres/simulabi/) is a research center that focuses on applied and fundamental research in data science, with focus on applications in the intersection between business and data science. The center is a collaboration between Simula and BI, and aims to facilitate collaboration in the extended Norwegian data science community. Erlend Aune is the head of the research center.

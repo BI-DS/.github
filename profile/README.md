@@ -19,7 +19,7 @@ The [department](https://www.bi.edu/research/find-department/department-of-data-
 * [Johnsen, Siri](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/siri-johnsen/) Head of Administration
 
 ### Academic Staff
-* [Aune, Erlend](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/erlend-aune/)
+* [#Aune, Erlend](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/erlend-aune/)
 * [Ivanovska, Magdalena](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/magdalena-ivanovska/)
 * [Kudlicka, Jan](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/jan-kudlicka/)
 * [Mancisidor, Rogelio A](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/rogelio-andrade-mancisidor/)

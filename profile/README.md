@@ -29,3 +29,8 @@ The [department](https://www.bi.edu/research/find-department/department-of-data-
 
 ## Simula@BI
 [Simula@BI](https://www.bi.edu/research/research-centres/simulabi/) is a research center that focuses on applied and fundamental research in data science, with focus on applications in the intersection between business and data science. The center is a collaboration between Simula and BI, and aims to facilitate collaboration in the extended Norwegian data science community. Erlend Aune is the head of the research center.
+
+## **Programmes**
+[Bachelor - Data Science for Business](https://www.bi.edu/programmes-and-individual-courses/bachelor-programmes/Data-Science-for-Business/)
+[MSc - Data Science for Business](https://www.bi.edu/programmes-and-individual-courses/master-programmes/data-science-for-business/)
+[MSc - Business Analytics](https://www.bi.edu/programmes-and-individual-courses/master-programmes/business-analytics/)

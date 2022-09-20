@@ -22,13 +22,16 @@ The [department](https://www.bi.edu/research/find-department/department-of-data-
 * [Aune, Erlend](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/erlend-aune/)
 * [Ivanovska, Magdalena](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/magdalena-ivanovska/)
 * [Kudlicka, Jan](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/jan-kudlicka/)
+* [Larsen, Vegard H] (https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/vegard-hoghaug-larsen/)
+* [Lee, Adam] (https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/adam-lee/)
 * [Mancisidor, Rogelio A](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/rogelio-andrade-mancisidor/)
+* [Moonen, Leon] (https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/leon-moonen/)
 * [Moss, Jonas](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/jonas-moss/)
 * [Stoltenberg, Emil A](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/emil-aas-stoltenberg/)
 * [Yang, Wei-Ting](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/wei-ting-yang/)
 
 ## Simula@BI
-[Simula@BI](https://www.bi.edu/research/research-centres/simulabi/) is a research center that focuses on applied and fundamental research in data science, with focus on applications in the intersection between business and data science. The center is a collaboration between Simula and BI, and aims to facilitate collaboration in the extended Norwegian data science community. Erlend Aune is the head of the research center.
+[Simula@BI](https://www.bi.edu/research/research-centres/simulabi/) is a research center that focuses on applied and fundamental research in data science, with focus on applications in the intersection between business and data science. The center is a collaboration between Simula and BI, and aims to facilitate collaboration in the extended Norwegian data science community. Vegard Larsen is the head of the research center.
 
 ## **Programmes**
 * [Bachelor - Data Science for Business](https://www.bi.edu/programmes-and-individual-courses/bachelor-programmes/Data-Science-for-Business/)

@@ -23,6 +23,7 @@ The [department](https://www.bi.edu/research/find-department/department-of-data-
 * [Ivanovska, Magdalena](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/magdalena-ivanovska/)
 * [Kudlicka, Jan](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/jan-kudlicka/)
 * [Larsen, Vegard H](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/vegard-hoghaug-larsen/)
+* [Lavagnini, Silvia](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/silvia-lavagnini/)
 * [Lee, Adam](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/adam-lee/)
 * [Mancisidor, Rogelio A](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/rogelio-andrade-mancisidor/)
 * [Moonen, Leon](https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/leon-moonen/)
